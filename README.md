@@ -1,2 +1,0 @@
-# jsx
-Created with CodeSandbox
